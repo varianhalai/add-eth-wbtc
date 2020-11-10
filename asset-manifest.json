@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/add-eth-wbtc/static/css/main.412559b2.chunk.css",
+    "main.js": "/add-eth-wbtc/static/js/main.22be9420.chunk.js",
+    "main.js.map": "/add-eth-wbtc/static/js/main.22be9420.chunk.js.map",
+    "runtime-main.js": "/add-eth-wbtc/static/js/runtime-main.79437d45.js",
+    "runtime-main.js.map": "/add-eth-wbtc/static/js/runtime-main.79437d45.js.map",
+    "static/js/2.99237e81.chunk.js": "/add-eth-wbtc/static/js/2.99237e81.chunk.js",
+    "static/js/2.99237e81.chunk.js.map": "/add-eth-wbtc/static/js/2.99237e81.chunk.js.map",
+    "static/js/3.e9722281.chunk.js": "/add-eth-wbtc/static/js/3.e9722281.chunk.js",
+    "static/js/3.e9722281.chunk.js.map": "/add-eth-wbtc/static/js/3.e9722281.chunk.js.map",
+    "index.html": "/add-eth-wbtc/index.html",
+    "static/css/main.412559b2.chunk.css.map": "/add-eth-wbtc/static/css/main.412559b2.chunk.css.map",
+    "static/js/2.99237e81.chunk.js.LICENSE.txt": "/add-eth-wbtc/static/js/2.99237e81.chunk.js.LICENSE.txt",
+    "static/media/coin.3036f619.jpg": "/add-eth-wbtc/static/media/coin.3036f619.jpg",
+    "static/media/download-metamask.d5ed3214.png": "/add-eth-wbtc/static/media/download-metamask.d5ed3214.png",
+    "static/media/switch-network.7edd19b2.jpg": "/add-eth-wbtc/static/media/switch-network.7edd19b2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79437d45.js",
+    "static/js/2.99237e81.chunk.js",
+    "static/css/main.412559b2.chunk.css",
+    "static/js/main.22be9420.chunk.js"
+  ]
+}
